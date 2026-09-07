@@ -1,5 +1,2 @@
 # Birthday Secret Message
-
-Upload `index.html` and the `images` folder to your GitHub repository.
-The page is self-contained and uses seven SVG birthday illustrations.
-For GitHub Pages, publish from `main` and `/(root)`.
+Upload `index.html` and the `images` folder to your GitHub repository. The seven images are real animated GIFs. GitHub Pages should use `main` and `/(root)`.
